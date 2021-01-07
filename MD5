@@ -1,9 +1,9 @@
-a7c5691fbc0cd4a060e2d538021f3ebd *DESCRIPTION
+15b936ca60a624fc39ad1a1939da9834 *DESCRIPTION
 e77ef669a21926c9a640819ebae80d4e *NAMESPACE
-50914201e65cc74aa08fae0c46a878be *NEWS.md
-61eea43b96209171931c04d0a03d6cbd *R/disastr.api.R
-1a37859a04afc06ab6161af612217dae *R/disastr.api.internal.R
-67a49a60b258fbad418ed68600bbcd64 *README.md
-1d5595bc673851fa0d560a4c9f39423a *man/disastr.api.Rd
+5c6e3e834355353e42d651892c5278a4 *NEWS.md
+b6f9b6b35c196806754910e2be4479a6 *R/disastr.api.R
+f56270ef87d1cf042f03bec6ca1214ba *R/disastr.api.internal.R
+90ebf680a5f9f0f08bcab3cb5b2f285b *README.md
+10d3a266178516a57d753dd098e36e98 *man/disastr.api.Rd
 650479913d587042cab16496e2e92c6d *tests/testthat.R
 225e3812b897786befc574f805c96dc2 *tests/testthat/test-disastr.R

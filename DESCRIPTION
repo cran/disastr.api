@@ -1,7 +1,7 @@
 Package: disastr.api
 Title: Wrapper for the UN OCHA ReliefWeb Disaster Events API
-Version: 1.0.4
-Date: 2021-02-02
+Version: 1.0.5
+Date: 2021-03-05
 Authors@R: 
     person(given = "Christoph",
            family = "Dworschak",
@@ -20,6 +20,6 @@ RoxygenNote: 7.1.1
 Imports: httr, jsonlite
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2021-02-09 08:59:00 UTC; root
+Packaged: 2021-03-05 07:13:25 UTC; root
 Repository: CRAN
-Date/Publication: 2021-02-09 17:50:06 UTC
+Date/Publication: 2021-03-05 07:40:06 UTC
